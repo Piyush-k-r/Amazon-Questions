@@ -28,5 +28,13 @@ ________________________________________________________________________________
 s. They presented me with two DSA questions. One was about finding the Kth smallest/largest number, which I solved using queues, and the other was converting a number into Roman numerals. I was able to solve both questions efficiently, with time to spare.
 
 
+______________________________________________________________________________________________________________________________________________________________________
+
+1st Coding Question:
+
+This was a variation of the Search in Rotated Sorted Array problem. The interviewer framed it as a scenario where a spinning wheel of numbers formed a rotated sorted array. I applied a modified binary search approach to solve it optimally in O(log n) time complexity.
+2nd Coding Question:
+
+The second problem involved finding the Lowest Common Ancestor of a Binary Tree. The task was to print the path between a source and destination node, which required identifying the common ancestor of both nodes. This was a classic tree traversal problem.
 
 
