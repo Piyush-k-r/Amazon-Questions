@@ -1,0 +1,14 @@
+Round 3 (Technical Interview): My interview was scheduled on 11 September 2022. The interview was conducted in physical mode.  
+
+At first, the interviewer asked me to introduce myself. After that, she introduced herself.  
+Then she started explaining the first question. The question was based on Binary-Search.
+ It was a non-standard question. At first, I told her about the brute force approach, and she looked satisfied and asked me to further optimize it. Then I told her the approach which was based on binary search. 
+She asked me to dry-run the approach on 1 or 2 test cases. When she got an idea of my approach then she asked me to code it and later asked about the time complexity of the code.
+ The interviewer looked satisfied and we moved to the next question.
+The next question was based on a linked list.
+
+For reference, I am attaching the link here: Detect and remove cycle in a linked list.
+
+This time also, I started with brute force with some extra space. She asked me to optimize it. I told her about the slow and fast pointer approach and the intuition behind it. She asked me to code it. further, she asked about the time complexity. This time she also looked satisfied with my explanation.
+
+At last, she asked if I had any questions for her. I asked her two questions and then the interview was over. The interview lasted for 50-55 minutes.
