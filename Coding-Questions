@@ -1,1 +1,56 @@
+1.Given an array of integers arr and a constant y, find the length of the largest subset such that the absolute difference between any two elements in the subset is greater than or equal to y.
 
+Example: For the input arr = {-900, 1, 1, 2, 100, 101, 2, 4, 5, 10, 18, 20, 15} and y = 4, the expected output is 7.
+
+One possible largest subset is {-900, 1, 100, 5, 10, 20, 15}, where the difference between any two elements in the subset is greater than or equal to 4.
+
+______________________________________________________________________________________________________________________________________________________________________________
+
+2. Given an array of integers arr and a constant x, find the number of pairs (i, j) such that: i < j and arr[i] + arr[j] is divisible by x
+
+Example: For the input arr = [3, 8, 2, 7, 1, 9] and x = 5. The valid pairs are (3, 7) , (8, 2) , (7, 8) and (1, 9) because their sums are divisible by 5.
+So, the expected output would be 4.
+
+_______________________________________________________________________________________________________________________________________________________________________________
+3. Given an array of strings where each string consists of lowercase alphabets and the character '?', return a string that has the fewest '?' characters while matching all the given strings. The character '?' can be replaced with any lowercase alphabet to achieve a match. (The array consists of strings of same length)
+
+Examples:
+
+For the input array of strings ["a?c", "??c", "abc"], the expected output is "abc"
+For the input array of strings ["adc", "??c", "abc"], the expected output is "a?c"
+
+
+
+
+_______________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________________
+
+Interview Questions
+
+1. Check whether array can be made strictly increasing by removing at most one element. Time Complexity: O(n)
+GFG: https://www.geeksforgeeks.org/check-whether-an-array-can-be-made-strictly-increasing-by-removing-at-most-one-element/
+
+
+_______________________________________________________________________________________________________________________________________________________________________________
+
+2. Merge Intervals. Time Complexity: O(nlogn)
+GFG: https://www.geeksforgeeks.org/merging-intervals/
+
+_______________________________________________________________________________________________________________________________________________________________________________
+
+3.He asked me only one coding question and the question can be solved using binary search :
+
+https://www.geeksforgeeks.org/find-the-element-that-appears-once-in-a-sorted-array/
+
+_______________________________________________________________________________________________________________________________________________________________________________
+
+
+4.https://leetcode.com/problems/move-zeroes/
+https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
+
+ was able to code both of them but that approach was not the exact approach but a little different one. But I think it is not about problem-solving capabilities it is about THE CORRECT SOLUTION. So my tip would be to cram THE CORRECT SOLUTION from leetcode because the interviewer wants that crammed solution only.
+
+
+______________________________________________________________________________________________________________________________________________________________________________
