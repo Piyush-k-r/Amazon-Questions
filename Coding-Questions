@@ -54,3 +54,46 @@ https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
 
 
 ______________________________________________________________________________________________________________________________________________________________________________
+
+
+interview coding questions
+
+I was asked 2 coding questions:
+
+Given a graph of n nodes and e edges.
+           Find the minimum number of edges that must be added to the graph to make it strongly connected.
+
+           Example:
+
+                  n=4, e=2
+
+                   [1,2]
+
+                   [3,4]
+
+                 Output: 1
+
+                 Here 1–>2 and 3–>4 are connected to make it strongly connected we need to join either 1–>4 or 2—>4 or 3–>1 or 2–>3
+
+            Approach: This can be done by finding number of strongly connected components using DFS. If there are N strongly connected components then the                          minimum  number of edges that must be added to the graph to make it strongly connected would be N-1.
+
+      2.   Minimum path sum    
+
+I was asked to tell the time complexity before writing the code. ( clean code in my preferred language)
+
+Round 2 Technical interview:
+
+The interview started with my introduction and followed by his. After this he jumped straight into the coding questions.
+
+I was asked 2 coding questions:
+
+Flattening a linked list
+Merge k sorted arrays (priority queue approach)
+
+In this round he asked me:
+
+Convert a sorted linked list into a balanced BST
+An efficient data structure for searching, inserting and deleting.
+Lot of discussion was done on the 2nd question. He was satisfied with Hashing method.
+
+Few DS, CN, OS questions were asked at the end.
